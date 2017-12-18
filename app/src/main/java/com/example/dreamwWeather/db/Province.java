@@ -1,10 +1,12 @@
 package com.example.dreamwweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by Administrator on 2017/12/18.
  */
 
-public class Province {
+public class Province extends DataSupport{
     public int getId() {
         return id;
     }

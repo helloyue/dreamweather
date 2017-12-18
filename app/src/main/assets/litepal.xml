@@ -2,9 +2,9 @@
     <dbname value = "dream_weather"></dbname>
     <version value ="1"></version>
     <list>
-        <mapping class="com.dreamweather.android.db.Province"></mapping>
-        <mapping class="com.dreamweather.android.db.City"></mapping>
-        <mapping class="com.dreamweather.android.db.County"></mapping>
+        <mapping class="com.example.dreamwweather.db.Province"></mapping>
+        <mapping class="com.example.dreamwweather.db.City"></mapping>
+        <mapping class="com.example.dreamwweather.db.County"></mapping>
 
     </list>
 
